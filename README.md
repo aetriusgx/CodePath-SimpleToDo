@@ -28,7 +28,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+There weren't any notable challenges through the assignment besides the UI layouts. 
 
 ## License
 
